@@ -1,14 +1,14 @@
-# Dependencies
+# Node.js dependencies
 node_modules/
 
-# Logs
+# npm log files
 npm-debug.log
 npm-error.log
 
 # Environment variables
 .env
 
-# Coverage reports
+# Test coverage reports
 coverage/
 
 # OS-specific files
