@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# npm log files
+npm-debug.log
+npm-error.log
+
+# Environment variables
+.env
+
+# Test coverage reports
+coverage/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
